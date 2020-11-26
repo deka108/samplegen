@@ -2,15 +2,20 @@
 
 Generate repetitive samples of the values in your data following some distribution:
 - [x] Random Uniform
-![random uniform](docs/random_uniform.png)
+<br/>
+<img src="docs/random_uniform.png" alt="random uniform"/>
 
 - [x] Random Normal
-![random normal](docs/random_normal_hist.png)
+<br/>
+<img src="docs/random_normal_hist.png" alt="random normal" />
+![random normal]()
 
 - [x] Left Skew (gamma)
-![random normal](docs/left_skew_dist.png)
+<br/>
+<img src="docs/left_skew_dist.png" alt="left skew dist" />
 
 - [x] Right Skew (inverse gamma)
-![random normal](docs/right_skew_dist.png)
+<br/>
+<img src="docs/right_skew_dist.png" alt="right skew dist" />
 
 Weight of the data distribution will be given according to the order of the values in the data
