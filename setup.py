@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='datagen',
+    name='samplegen',
     version='0.1',
     description='generate data samples for different distribution',
-    packages=['datagen']
+    packages=['samplegen']
 )
