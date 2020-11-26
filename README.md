@@ -8,7 +8,6 @@ Generate repetitive samples of the values in your data following some distributi
 - [x] Random Normal
 <br/>
 <img src="docs/random_normal_hist.png" alt="random normal" />
-![random normal]()
 
 - [x] Left Skew (gamma)
 <br/>
